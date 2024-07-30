@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @johnwjt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### 👋 Hi, nice to meet you!
 
-<!---
-johnwjt/johnwjt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 I'm John and this is my little personal learning space!
+
+**💼 Experiences**
+- 2 YOE as a Software Engineer working @ *Acuity Brands Inc.* - July 2022 - July 2024
+- Technical Support Specialist (Non-code related job) @ *Meditech* - July 2021 - June 2022
+- UMass Amherst *B.S, Informatics* - 2016-2021 
+
